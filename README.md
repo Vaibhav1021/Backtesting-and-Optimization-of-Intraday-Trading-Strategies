@@ -14,7 +14,7 @@ This project involves designing and implementing an intraday trading strategy us
 - Languages: Python
 - Libraries: pandas, pandas_ta, Backtesting.py
 - Tools: Jupyter Notebook for development, Matplotlib for data visualization
-- 
+ 
 ### How It Works
 - Data Loading: Historical price and volume data is loaded into the framework for analysis.
 - Indicator Calculation: EMA and VWAP indicators are computed to signal buy/sell decisions.
